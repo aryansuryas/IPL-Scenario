@@ -1,15 +1,3 @@
 @import "tailwindcss" source(none);
 @source "../src";
-@import "tw-animate-css";
-
-@custom-variant dark (&:is(.dark *));
-rcent-foreground);
- r5 240);
-  --qualify: oklch(0.72 0.17 155);
-  --qualify-forer-10px oklch(0.22 0.09 265 / 0.15);r
-  body {
-    background: var(--color-background);
-    color: var(--color-foreground);
-    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
-  }
-}
+@import "twrwrwt
