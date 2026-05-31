@@ -1,4 +1,2 @@
 pp
-  id: '/',
-  path: '/',
-  getParentRouteoo
+p
