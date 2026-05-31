@@ -1,11 +1,4 @@
-/* eslint-disable */
-
-// @ts-nocheck
-
-// noinspection JSUnusedGlobalSymbols
-
-import { Route as IndexRouteImport } from './routes/index'
-oe({
+pp
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
